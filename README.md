@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?joren97x)
+![](https://komarev.com/ghpvc/?username=joren97x)
 ### Hi there 👋
 
 <!--
