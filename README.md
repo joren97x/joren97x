@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=joren97x)
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30
+
+
+
 <!--
 **joren97x/joren97x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
